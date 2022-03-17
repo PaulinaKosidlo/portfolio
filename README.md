@@ -49,3 +49,4 @@ My name is Paulina Kosidło. I am a master of Biological foundations of forensic
 ## My test cases
 ## My bug reports
 ## My SQL assignment
+ * [Tabela Ćwiczenia](https://github.com/PaulinaKosidlo/SQL)
