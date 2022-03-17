@@ -45,8 +45,3 @@ My name is Paulina Kosidło. I am a master of Biological foundations of forensic
 * [W3schools](https://www.w3schools.com)
 * [SQL Online IDE](https://www.sqliteonline.com)
 * [testerzy.pl](https://www.testerzy.pl)
-
-## My test cases
-## My bug reports
-## My SQL assignment
- * [Tabela Ćwiczenia](https://github.com/PaulinaKosidlo/SQL)
