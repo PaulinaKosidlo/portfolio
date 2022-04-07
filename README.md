@@ -9,6 +9,7 @@ My name is Paulina Kosidło. I am a master of Biological foundations of forensic
 * GitHub 
 * MrBuggy 3,4 
 * LateX
+* Postman
 
 ## Tech Skills
 * Creating test cases
@@ -26,7 +27,9 @@ My name is Paulina Kosidło. I am a master of Biological foundations of forensic
 * *Podstawy SQL część 1*, Zespół Ifs&Whiles, 15/03/2022
 * *REST API testowanie*, Tester programuje Bartek Kita, 14/03/2022
 * *Python Meet Up*, STX Next, 17/03/2022
-* *API HTTP z użyciem Postman*, Zespół Ifs&Whiles, booked 22/03/2022
+* *API HTTP z użyciem Postman*, Zespół Ifs&Whiles, 22/03/2022
+* *Warsztaty programowania w Python*, Zespół If&Whiles, 05/04/2022
+* *Warsztaty: GIT oraz github*, Zespół If&Whiles, 07/04/2022
 
 ## Books
 * *Pasja testowania*, K. Jadczyk
